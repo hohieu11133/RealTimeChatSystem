@@ -1,0 +1,11 @@
+D:\chatrealtimesystem\src\ChatApp.Shared\bin\Debug\net9.0\ChatApp.Shared.deps.json
+D:\chatrealtimesystem\src\ChatApp.Shared\bin\Debug\net9.0\ChatApp.Shared.dll
+D:\chatrealtimesystem\src\ChatApp.Shared\bin\Debug\net9.0\ChatApp.Shared.pdb
+D:\chatrealtimesystem\src\ChatApp.Shared\obj\Debug\net9.0\ChatApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\chatrealtimesystem\src\ChatApp.Shared\obj\Debug\net9.0\ChatApp.Shared.AssemblyInfoInputs.cache
+D:\chatrealtimesystem\src\ChatApp.Shared\obj\Debug\net9.0\ChatApp.Shared.AssemblyInfo.cs
+D:\chatrealtimesystem\src\ChatApp.Shared\obj\Debug\net9.0\ChatApp.Shared.csproj.CoreCompileInputs.cache
+D:\chatrealtimesystem\src\ChatApp.Shared\obj\Debug\net9.0\ChatApp.Shared.dll
+D:\chatrealtimesystem\src\ChatApp.Shared\obj\Debug\net9.0\refint\ChatApp.Shared.dll
+D:\chatrealtimesystem\src\ChatApp.Shared\obj\Debug\net9.0\ChatApp.Shared.pdb
+D:\chatrealtimesystem\src\ChatApp.Shared\obj\Debug\net9.0\ref\ChatApp.Shared.dll

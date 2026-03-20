@@ -1,0 +1,2 @@
+D:\chatrealtimesystem\src\ChatApp.API\wwwroot\index.html
+wwwroot\index.html
