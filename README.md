@@ -59,8 +59,7 @@ Then open **http://localhost:5000** in your browser.
 > [!NOTE]
 > The database schema is **auto-created on startup** via EF Core migrations. No manual setup needed.
 
-> [!IMPORTANT]
-> Before deploying to production, change the `Jwt.Key` in `appsettings.json` to a strong, random secret.
+
 
 ---
 
